@@ -10,4 +10,4 @@
 
 * **[Personal Technical Writing Process](link)**
 
-* **[Scrum and agile reference sheet](link)**
+* **[Scrum and agile reference sheet](https://github.com/saloset/Notes/blob/1e218341e09f8ee1a6fa5fbda959fa2b14eb8252/Scrum%20and%20Agile.md)**
