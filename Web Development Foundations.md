@@ -36,3 +36,6 @@ Asking well formed, thought out, and context based questions allows for higher q
 
 **Quick tips for answering questions**
 * Instead of answering the question, *guide* them to the answer
+*  Help only when you know the answer for certain.
+* Do not jump into the middle of someone else's conversation. This can be overwhelming  for the OP.
+* Ask for clarification when needed. Also ask for live code where appropriate. 
