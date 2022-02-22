@@ -8,6 +8,6 @@
 
 * **[Foundations of Web Development](https://github.com/saloset/Notes/blob/b82b67db93d0868870be6989337d933b96073609/Intro%20to%20Web%20Dev.md)**
 
-* **[Personal Technical Writing Process](link)**
+* **[Personal Technical Writing Process](https://github.com/saloset/Notes/blob/cc0feed3df4bcbe988c591131491a526124f61d6/Personal%20tech%20writing%20process.md)**
 
 * **[Scrum and agile reference sheet](https://github.com/saloset/Notes/blob/1e218341e09f8ee1a6fa5fbda959fa2b14eb8252/Scrum%20and%20Agile.md)**
