@@ -5,9 +5,9 @@ Web devs build and maintain websites
 * This work involves collaboration between teams, devs, and the client itself.
 * Work could involve **Front end, back end, or full stack** web development.
 
-**Front end** refers to the stuff you see on the browser. Devs use HTML, CSS, JavaScript, and their frameworks to present their content. 
-**Back end** is basically the backbone of the page or app, which lives on the server side of things. Devs use programming languages such as Java, Python, and Ruby to work with the data.
-**Full-stack** refers to the use of both front end and back end principles. 
+* **Front end** refers to the stuff you see on the browser. Devs use HTML, CSS, JavaScript, and their frameworks to present their content. 
+* **Back end** is basically the backbone of the page or app, which lives on the server side of things. Devs use programming languages such as Java, Python, and Ruby to work with the data.
+* **Full-stack** refers to the use of both front end and back end principles. 
 
 ---
 
