@@ -7,7 +7,7 @@
 ## Index of notes
 * **[Technical Writing Best Practices and Deliverables](https://github.com/saloset/Notes/blob/234e81c9684fde1b19a5b00e20b6bb5db2bb7177/TW%20Notes:%20Best%20Practices%20and%20Deliverables.md)**
 
-* **[Foundations of Web Development](https://github.com/saloset/Notes/blob/b82b67db93d0868870be6989337d933b96073609/Intro%20to%20Web%20Dev.md)**
+* **[Foundations of Web Development](https://github.com/saloset/Notes/blob/c35f09b2b68df91279609b21b88f7607613a0d54/Web%20Development%20Foundations.md)**
 
 * **[Personal Technical Writing Process](https://github.com/saloset/Notes/blob/cc0feed3df4bcbe988c591131491a526124f61d6/Personal%20tech%20writing%20process.md)**
 
