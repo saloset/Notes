@@ -5,7 +5,7 @@ Madcap Flare is an authoring tool used largley to create [single-sourced](https:
 
 
 
-## Uses 
+## Use cases
 
 ## Workflow
 
