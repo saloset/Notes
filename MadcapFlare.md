@@ -3,11 +3,12 @@
 Madcap Flare is an authoring tool used largley to create [single-sourced](https://www.techtarget.com/whatis/definition/single-source-publishing-multi-channel-publishing) content that allows for the easy incorporation of base content into multiple output formats. 
 
 
-
+## Basics
 
 ## Use cases
 
 ## Workflow
+
 
 
 ## Definitions: 
